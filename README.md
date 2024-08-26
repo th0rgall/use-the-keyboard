@@ -5,7 +5,7 @@ The source behind [usethekeyboard.com](https://usethekeyboard.com)
 ## Prerequisites
 If you'd like to clone this repo and use the underlying static site generator, you'll need to have the following installed on your environment:
 
-- PHP 5.6.4 or higher
+- PHP 5.6.4 or higher, but lower than PHP 8
 - Composer
 - Node/npm
 
