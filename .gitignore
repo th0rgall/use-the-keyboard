@@ -4,3 +4,6 @@ npm-debug.log
 yarn-error.log
 .DS_Store
 .idea
+
+dist
+mix-manifest.json
