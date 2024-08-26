@@ -1,0 +1,172 @@
+{
+    "view": "layout.shortcut",
+    "slug": "freshrss",
+    "title": "FreshRSS",
+    "meta_title": "Keyboard shortcuts for FreshRSS",
+    "meta_description": "A visual cheat-sheet for the default shortcuts found in FreshRSS",
+    "reference_link": "https://freshrss.github.io/FreshRSS/en/users/05_Configuration.html",
+    "sections": [
+        {
+            "name": "Views",
+            "shortcuts": [
+                {
+                    "description": "Switch to normal view",
+                    "keys": [
+                        "1"
+                    ]
+                },
+                {
+                    "description": "Switch to global view",
+                    "keys": [
+                        "2"
+                    ]
+                },
+                {
+                    "description": "Switch to reading view",
+                    "keys": [
+                        "3"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Navigation",
+            "shortcuts": [
+                {
+                    "description": "Open the next article",
+                    "keys": [ "J" ]
+                },
+                {
+                    "description": "Open the next unread article",
+                    "keys": [ "H" ]
+                },
+                {
+                    "description": "Open the previous article",
+                    "keys": [ "K" ]
+                },
+                {
+                    "description": "Open the first article",
+                    "keys": [ "Home" ]
+                },
+                {
+                    "description": "Open the last article",
+                    "keys": [ "End" ]
+                },
+                {
+                    "description": "Focus next without opening",
+                    "keys": [ "N" ]
+                },
+                {
+                    "description": "Focus previous without opening",
+                    "keys": [ "P" ]
+                },
+                {
+                    "description": "Open the next feed",
+                    "keys": [ "Shift", "J" ]
+                },
+                {
+                    "description": "Open the next unread feed",
+                    "keys": [ "Shift", "H" ]
+                },
+                {
+                    "description": "Open the previous feed",
+                    "keys": [ "Shift", "K" ]
+                },
+                {
+                    "description": "Open the first feed",
+                    "keys": [ "Shift", "Home" ]
+                },
+                {
+                    "description": "Open the last feed",
+                    "keys": [ "Shift", "End" ]
+                },
+                {
+                    "description": "Open the next category",
+                    "keys": [ "Alt", "J" ]
+                },
+                {
+                    "description": "Open the next unread category",
+                    "keys": [ "Alt", "H" ]
+                },
+                {
+                    "description": "Open the previous category",
+                    "keys": [ "Alt", "K" ]
+                },
+                {
+                    "description": "Open the first category",
+                    "keys": [ "Alt", "Home" ]
+                },
+                {
+                    "description": "Open the last category",
+                    "keys": [ "Alt", "End" ]
+                }
+            ]
+        },
+        {
+            "name": "Article actions",
+            "shortcuts": [
+                {
+                    "description": "Toggle current article read status",
+                    "keys": [ "R" ]
+                },
+                {
+                    "description": "Mark previous articles as read",
+                    "keys": [ "Alt", "R" ]
+                },
+                {
+                    "description": "Mark all articles as read",
+                    "keys": [ "Shift", "R" ]
+                },
+                {
+                    "description": "Toggle favourite",
+                    "keys": [ "Shift", "F" ]
+                },
+                {
+                    "description": "Open on original website",
+                    "keys": [ "Space" ]
+                },
+                {
+                    "description": "Share",
+                    "keys": [ "S" ]
+                },
+                {
+                    "description": "Collapse",
+                    "keys": [ "C" ]
+                },
+                {
+                    "description": "Play/pause media",
+                    "keys": [ "v" ]
+                }
+            ]
+        },
+        {
+            "name": "Other actions",
+            "shortcuts": [
+                {
+                    "description": "Update feeds",
+                    "keys": [ "Q" ]
+                },
+                {
+                    "description": "Load more articles",
+                    "keys": [ "M" ]
+                },
+                {
+                    "description": "Access search box",
+                    "keys": [ "A" ]
+                },
+                {
+                    "description": "Access user queries",
+                    "keys": [ "U" ]
+                },
+                {
+                    "description": "Close menus",
+                    "keys": [ "Escape" ]
+                },
+                {
+                    "description": "Display documentation",
+                    "keys": [ "F1" ]
+                }
+            ]
+        }
+    ]
+}
